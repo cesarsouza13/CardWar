@@ -2,7 +2,7 @@
 programa que descubra qual jogador é o vencedor de uma determinada distribuição de cartas do jogo de "guerra".
 
 
-	**Regras**
+**Regras**
 A guerra é um jogo de cartas jogado entre dois jogadores. Cada jogador recebe um número variável de cartas do início do jogo: esse é o baralho do jogador. As cartas são colocadas viradas para baixo no topo de cada baralho.
  
 Passo 1: a luta
