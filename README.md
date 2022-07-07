@@ -29,5 +29,5 @@ Jogador 2:4H 6D
 
 #Compilando o código:
 
-cd src
-g++ -std=c++11 war.cpp -o teste
+**cd src**
+**g++ -std=c++11 war.cpp -o teste**
